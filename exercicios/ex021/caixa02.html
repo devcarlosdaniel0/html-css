@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouping tags</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: justify;
+            background-image: linear-gradient(to left, #646E78, #8D98A7);
+            margin: 0px;
+        }
+
+        p{
+            font-size: 0.85em;
+        }
+
+        header{
+            background-color: white;
+            padding: 10px;
+            margin: 10px;
+        }
+
+        nav{
+            background-color: #3c4349;
+            padding: 5px;
+            box-shadow: 2px 2px 0px rgba(0, 0, 0, 0.363);
+        }
+
+        nav > a{
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+            margin: 10px;
+        }
+
+        nav > a:hover{
+            color: #A7E8BD;
+            text-decoration-line: underline;
+        }
+
+        section#assuntos{
+            width: 180px;
+            background-color: #393e44;
+            margin-left: 10px;
+            color: white;
+            font-weight: bold;
+        }
+
+        .categorias{
+            display: inline;
+            margin-left: 10px;
+            margin-right: 10px;
+            text-align: center;
+        }
+
+        .secoes{
+            margin: 10px;
+        }
+
+        .secoes > h2{
+            background-color: #331832;
+            color: white;
+            padding: 5px;
+        }
+
+        .secoes > article{
+            border-radius: 10px 0px;
+            box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.404);
+            background-color: white;
+            padding: 0px 5px 0px 5px;
+        }
+
+        .secoes > article > aside{
+            color: #331832;
+            font-weight: bold;
+        }
+
+        footer{
+            margin: 10px;
+            color: black;
+            font-weight: bold;
+        }
+        
+        div#bola{
+            height: 100px;
+            width: 100px;
+            margin: 10px;
+            border-radius: 100%;
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Meu site</h1>
+        <nav>
+            <a href="#"> Youtube</a>
+            <a href="#"> Instagram</a>
+            <a href="#"> Tiktok</a>
+            <a href="#"> Facebook</a>
+            <a href="#"> Twitter</a>
+        </nav>
+    </header>
+    <main>
+        <section id="assuntos">
+            <p class="categorias">Notícias </p>
+            <p class="categorias">Esportes</p>
+        </section>
+        <section class="secoes">
+            <h2>Notícias</h2>
+            <article>
+                <h2>Ganhador da mega-sena de Iracemápolis</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem minima laudantium veniam, officiis, molestiae officia magnam tempora ratione suscipit culpa cumque exercitationem recusandae, repudiandae rem atque! Vitae nobis delectus ratione?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut impedit itaque nesciunt. Ipsa ex eveniet velit rerum nisi quos ipsam eaque molestias dolor deserunt porro cupiditate voluptates nulla, ratione amet.</p>
+                <aside>
+                    <p>Fonte: Vida Cap</p>
+                </aside>
+            </article>
+        </section>
+        <section class="secoes">
+            <h2>Esportes</h2>
+            <article>
+                <h2>Copa Futebol feminino 2024</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident quod voluptatem impedit adipisci. Animi, eos repudiandae illo obcaecati architecto modi maiores molestias reiciendis autem repellendus sunt odio in aspernatur similique! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea ut repellat quibusdam dolores eius magnam, id, praesentium, repudiandae placeat numquam voluptatibus aliquid! Culpa iusto reprehenderit obcaecati asperiores saepe reiciendis eos? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque ex explicabo, laboriosam doloremque nulla beatae voluptates iusto nesciunt voluptatibus deserunt itaque fugiat eos, velit officia mollitia architecto dignissimos. Ipsam, eius! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex placeat dicta sed a libero vitae distinctio ad quidem culpa porro earum, qui illo ea debitis harum itaque suscipit dignissimos fugit!</p>
+                <aside>
+                    <p>Fonte: CBF</p>
+                </aside>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>Desenvolvido pelo Carlos Daniel</p>
+    </footer>
+    <div id="bola"></div>
+</body>
+</html>

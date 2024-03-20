@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+body{
+    background-color: #719BA2;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #c57a41;
+}
+
+h1{
+    background-color: aquamarine;
+}
+
+h1#principal{
+    color: #f3a162;
+    text-align: center;
+    background-color: #347580;
+}
+
+.basico{
+    color: #CC548E;
+    background-color: greenyellow;
+}
+
+.intermediario{
+    color: #5E2641;
+    text-align: right;
+    background-color: rgb(253, 228, 4);
+}
+
+.avancado{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: beige;
+}

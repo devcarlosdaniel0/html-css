@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudoclasses</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        a{
+            color: green;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:visited{
+            color: greenyellow;
+            font-weight: bolder;
+        }
+
+        a:hover{
+            background-color: rgb(19, 136, 190);
+        }
+
+        a:active{
+            background-color: yellow;
+        }
+
+        .importante{
+            background-color: gray;
+        }
+
+        .importante::before{
+            content: ' ☛ ';
+            color: black;
+        }
+
+        .importante::after{
+            content: ' ☚ ';
+            color: black
+        }
+    </style>
+</head>
+<body>
+    <h1>Pseudoclasses</h1>
+    <ul>
+        <li><a href="https://www.youtube.com/channel/UCC5zelzwNtG3RUmFhRlSWmA" class="importante" target="_blank" rel="external">Meu canal do youtube</a></li>
+        <li><a href="https://banco.bradesco/" class="importante" target="_blank" rel="external">Bradesco</a></li>
+        <li><a href="https://www.instagram.com/" class="importante" target="_blank" rel="external">Instagram</a></li>
+    </ul>
+</body>
+</html>
