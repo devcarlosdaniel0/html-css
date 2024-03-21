@@ -1,4 +1,5 @@
 # html-css
- curso de html e css
+ curso de html e css - Curso em vídeo prof GB
 
-<a href='https://devcarlosdaniel0.github.io/html-css/exercicios/desafio10/android.html'>Executar o desafio 10</a>
+para navegar nos exercícios escreva a url terminada em:
+/exercicios/ex001 até o 22 ou mais
