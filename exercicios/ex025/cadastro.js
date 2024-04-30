@@ -1,1 +1,0 @@
-Olá, o cadastro foi enviado
