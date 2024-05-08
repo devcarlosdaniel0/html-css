@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: monospace;
+    font-size: 1.5em;
+    line-height: 1.5em;
+}
+
+header > menu {
+    display: none;
+}
+
+header h1 {
+    margin-bottom: 20px;
+}
+
+article {
+    width: 100%;
+}
+
+article::after {
+    content: 'Imprimido por Carlos Daniel';
+}
