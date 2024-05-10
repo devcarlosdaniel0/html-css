@@ -1,5 +1,5 @@
 # html-css
- curso de html e css - Curso em vídeo prof Gustavo Guanabara
+Curso de HTML e CSS - Curso em vídeo prof Gustavo Guanabara 
 
 https://devcarlosdaniel0.github.io/html-css/
 
