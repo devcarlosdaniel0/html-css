@@ -13,8 +13,9 @@ https://devcarlosdaniel0.github.io/html-css/
 
 # Exercícios
 
+Como acessar um exercício?
+
 <ul>
-    Como acessar um exercício?
     <li>Abra uma nova aba</li>
     <li><a href="https://github.com/devcarlosdaniel0/html-css/tree/main/exercicios/" target="_blank">Entre no meu repositório na parte de exercícios <a></li> 
     <li>Clique na pasta do exercício desejado</li>
