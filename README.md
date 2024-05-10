@@ -1,7 +1,7 @@
 # HTML-CSS
 Curso de HTML e CSS - Curso em vídeo prof Gustavo Guanabara 
 
-https://devcarlosdaniel0.github.io/html-css/
+<a href="https://devcarlosdaniel0.github.io/html-css/" target="_blank">https://devcarlosdaniel0.github.io/html-css/</a>
 
 # Projetos
 
