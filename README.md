@@ -1,7 +1,5 @@
 # html-css
- curso de html e css - Curso em vídeo prof Gustavo Guanabara
+ curso de html e css - Curso em vídeo prof GB
 
-Projetos 
-<a href="https://devcarlosdaniel0.github.io/html-css/projetos/projeto-social/">Projeto social</a>
-<a href="https://devcarlosdaniel0.github.io/html-css/projetos/projeto-android/">Projeto android</a> 
-<a href="https://devcarlosdaniel0.github.io/html-css/projetos/projeto-cordel/">Projeto cordel</a>
+para navegar nos exercícios escreva a url terminada em:
+/exercicios/ex001 até o 22 ou mais
