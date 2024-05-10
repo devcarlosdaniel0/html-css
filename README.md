@@ -25,3 +25,13 @@ Como acessar um exercício?
     <li>Exemplo: https://devcarlosdaniel0.github.io/html-css/exercicios/ex026/mq004</li>
     <li>Pronto! Faça isso para cada exercício</li>
 </ul>
+
+# Desafios
+
+<ul>
+    <li><a href="https://devcarlosdaniel0.github.io/html-css/exercicios/desafio10/android.html">Desafio 10</a></li>
+    <li><a href="https://devcarlosdaniel0.github.io/html-css/exercicios/desafio12/">Desafio 12</a></li>
+    <li><a href="https://devcarlosdaniel0.github.io/html-css/exercicios/desafio13/d1.html">Desafio 13 pt 1</a></li>
+    <li><a href="https://devcarlosdaniel0.github.io/html-css/exercicios/desafio13/d2.html">Desafio 13 pt 2</a></li>
+    <li><a href="https://devcarlosdaniel0.github.io/html-css/exercicios/desafio14/">Desafio 14</a></li>
+</ul>
