@@ -21,7 +21,7 @@ Como acessar um exercício?
     <li>Clique na pasta do exercício desejado</li>
     <li>Copie as últimas partes do URL que aparece em cima do mecanismo de busca do seu navegador</li>
     <li>Exemplo: exercicios/ex026/mq004</li>
-    <li>Cole o URL nessa aba </li>
+    <li>Cole o URL no meu github.io</li>
     <li>Exemplo: https://devcarlosdaniel0.github.io/html-css/exercicios/ex026/mq004</li>
     <li>Pronto! Faça isso para cada exercício</li>
 </ul>
