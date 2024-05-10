@@ -23,4 +23,5 @@ Como acessar um exercício?
     <li>Exemplo: exercicios/ex026/mq004</li>
     <li>Cole o URL nessa aba </li>
     <li>Exemplo: https://devcarlosdaniel0.github.io/html-css/exercicios/ex026/mq004</li>
+    <li>Pronto! Faça isso para cada exercício</li>
 </ul>
