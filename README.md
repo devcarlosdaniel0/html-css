@@ -9,7 +9,7 @@ https://devcarlosdaniel0.github.io/html-css/
     <li><a href="https://devcarlosdaniel0.github.io/html-css/projetos/projeto-android/" target="_blank">Projeto Android</a></li>
     <li><a href="https://devcarlosdaniel0.github.io/html-css/projetos/projeto-cordel/" target="_blank">Projeto Cordel</a></li>
     <li><a href="https://devcarlosdaniel0.github.io/html-css/projetos/projeto-social/" target="_blank">Projeto Social</a></li>
-    <li><a href="https://devcarlosdaniel0.github.io/html-css/projetos/projeto-login/">Projeto Login</a></li>
+    <li><a href="https://devcarlosdaniel0.github.io/html-css/projetos/projeto-login/" target="_blank">Projeto Login</a></li>
 </ul>
 
 # Exercícios
