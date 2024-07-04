@@ -16,7 +16,7 @@ https://devcarlosdaniel0.github.io/html-css/
 
 # Exercícios
 
-Como acessar um exercício?
+Como acessar um exercício direto do seu navegador?
 
 <ul>
     <li>Abra uma nova aba</li>
