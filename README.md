@@ -1,7 +1,7 @@
 # HTML-CSS
 Curso de HTML e CSS - "Curso em Vídeo" prof Gustavo Guanabara 
 
-<a href="https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-4-de-5-40-horas/" target="_blank">https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-4-de-5-40-horas/</a> 4/5 módulos finalizados
+Link do Curso <a href="https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-4-de-5-40-horas/" target="_blank">https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-4-de-5-40-horas/</a> 4/5 módulos finalizados
 
 https://devcarlosdaniel0.github.io/html-css/
 
